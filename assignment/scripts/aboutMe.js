@@ -15,7 +15,7 @@ let fullName = firstName + " " + lastName;
 console.log(fullName)
 
 // 5 - Create a variable called `luckyNumber` and assign it the value of your lucky number.
-let luckyNumber = 1;
+let luckyNumber = 10;
 console.log(luckyNumber);
 
 // 6 - Console log this sentence, adding in the variables you created above: 
@@ -110,6 +110,9 @@ switch (luckyNumber){
         break;
     case 3:
         console.log("Third is the one with the polka dot dress.");
+        break;
+    default: 
+        console.log("Luck is what happens when preparation meets opportunity.")
         break;
 }
 
