@@ -24,7 +24,7 @@ console.log(luckyNumber);
 console.log(`My name is ${fullName}, and I think ${luckyNumber} is a winner!`);
 
 // 7 - Create a variable named `adventurous` and set it to a boolean value (true or false)
-let adventurous = false;
+let adventurous = true;
 console.log("Adventurous, true or false: " + adventurous);
 
 // 8 - Create a variable named `food`, and set its value to a string of your favorite food
@@ -117,4 +117,3 @@ switch (luckyNumber){
 adventurous ? console.log("Adventures are great!"): console.log("How about we stay home?");
 
 //console.log("testing");
-
